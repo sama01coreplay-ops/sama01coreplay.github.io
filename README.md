@@ -29,3 +29,5 @@ meidroid debug = meidroid debug version
 
 meidroid MI = meidroid release version
 
+* [Ver o projeto do meidroid](./projetos/meidroid/readme.md)
+
